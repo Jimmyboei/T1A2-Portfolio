@@ -39,7 +39,7 @@ p {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 90vh;
+    height: 100vh;
     width: 100vw;
 }
 
@@ -121,7 +121,6 @@ footer{
 /*navbar for about, work and blog page */
 .navbar{
     text-align: right;
-    height: auto; /*need to test later */
     min-height: 1.5rem;
     line-height:1 ;
     background-color: rgba(53, 127, 196, 0.5);
@@ -324,7 +323,7 @@ footer{
     align-items: center;
 } */
 
-.blogpost article, a {
+.blogpost article {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
