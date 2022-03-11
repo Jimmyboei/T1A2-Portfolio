@@ -305,8 +305,12 @@ footer{
     padding: 1rem;
     background-color: rgba(53, 127, 196, 0.473);
     border: 1px solid transparent;
-    border-radius: 15px;
-    
+    border-radius: 15px;   
+}
+
+.card img{
+    margin: 1rem auto;
+    width: 90%;
 }
 
 /*For blog post page */
