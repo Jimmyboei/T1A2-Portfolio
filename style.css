@@ -334,3 +334,8 @@ footer{
     gap: 1rem;
     margin: 1rem;
 }
+
+.blogpost img {
+    margin: 1rem auto;
+    width: 90%;
+}

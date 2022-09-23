@@ -1,6 +1,6 @@
 # T1A2 Portfolio Website
 
-Portfolio website url: [Kaiqi Portfolio](https://focused-hopper-e14468.netlify.app)
+Portfolio website url: [Kaiqi Portfolio](https://kaiqi-portfolio-website.netlify.app)
 
 Github repo: [github repo](https://github.com/Jimmyboei/T1A2-Portfolio)
 
